@@ -1,1 +1,1 @@
-b.
+b. modified file b.txt;
